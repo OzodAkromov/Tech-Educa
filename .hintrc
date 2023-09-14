@@ -16,6 +16,12 @@
           "backdrop-filter"
         ]
       }
+    ],
+    "axe/structure": [
+      "default",
+      {
+        "listitem": "off"
+      }
     ]
   }
 }
